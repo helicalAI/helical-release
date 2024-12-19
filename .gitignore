@@ -3,7 +3,7 @@ __pycache__
 .vscode
 dist/*
 examples/notebooks/logs/*
-
+*embeddings.json
 # Data/Models
 data/*
 examples/data/*
